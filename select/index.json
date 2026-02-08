@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "Somebody To You",
+  "base_artist": "The Vamps",
+  "createdAt": "2026-02-08T12:42:23.482401Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Somebody To You (Acoustic Version)",
+      "artist": "The Vamps feat. Demi Lovato",
+      "has_synced": false,
+      "path": "select/01_Somebody_To_You_(Acoustic_Version)_The_Vamps_feat._Demi_Lovato.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Somebody To You (Acoustic Version) (Feat. Demi Lovato)",
+      "artist": "The Vamps",
+      "has_synced": false,
+      "path": "select/02_Somebody_To_You_(Acoustic_Version)_(Feat._Demi_Lovato)_The_Vamps.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Somebody To You",
+      "artist": "The Vamps feat. Demi Lovato",
+      "has_synced": true,
+      "path": "select/03_Somebody_To_You_The_Vamps_feat._Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Somebody To You (Feat. Demi Lovato)",
+      "artist": "The Vamps",
+      "has_synced": true,
+      "path": "select/04_Somebody_To_You_(Feat._Demi_Lovato)_The_Vamps.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Somebody To You",
+      "artist": "The Vamps",
+      "has_synced": true,
+      "path": "select/05_Somebody_To_You_The_Vamps.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Somebody To You (Acoustic Version)",
+      "artist": "The Vamps",
+      "has_synced": false,
+      "path": "select/06_Somebody_To_You_(Acoustic_Version)_The_Vamps.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Somebody To You (Feat. Demi Lovato)",
+      "artist": "The Vamps",
+      "has_synced": true,
+      "path": "select/07_Somebody_To_You_(Feat._Demi_Lovato)_The_Vamps.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Somebody To You",
+      "artist": "Vamps/demi Lovato",
+      "has_synced": true,
+      "path": "select/08_Somebody_To_You_Vamps_demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Somebody To You",
+      "artist": "The Vamps\\Demi Lovato",
+      "has_synced": true,
+      "path": "select/09_Somebody_To_You_The_Vamps_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Somebody To You (feat. Demi Lovato)",
+      "artist": "The Vamps",
+      "has_synced": true,
+      "path": "select/10_Somebody_To_You_(feat._Demi_Lovato)_The_Vamps.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Somebody To You",
+      "artist": "The Vamps",
+      "has_synced": true,
+      "path": "select/11_Somebody_To_You_The_Vamps.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Somebody to You",
+      "artist": "The Vamps feat. Demi Lovato",
+      "has_synced": true,
+      "path": "select/12_Somebody_to_You_The_Vamps_feat._Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Somebody To You (www.LoMasRankiaO.com)",
+      "artist": "The Vamps",
+      "has_synced": true,
+      "path": "select/13_Somebody_To_You_(www.LoMasRankiaO.com)_The_Vamps.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Somebody To You",
+      "artist": "The Vamps, Demi Lovato",
+      "has_synced": true,
+      "path": "select/14_Somebody_To_You_The_Vamps,_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Somebody To You (feat. Cory Wong)",
+      "artist": "Cody Fry",
+      "has_synced": true,
+      "path": "select/15_Somebody_To_You_(feat._Cory_Wong)_Cody_Fry.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Somebody To You",
+      "artist": "Cody Fry",
+      "has_synced": true,
+      "path": "select/16_Somebody_To_You_Cody_Fry.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Somebody to You",
+      "artist": "The Vamps feat. Demi Lovato",
+      "has_synced": true,
+      "path": "select/17_Somebody_to_You_The_Vamps_feat._Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Somebody to Thank",
+      "artist": "Logan Mize",
+      "has_synced": false,
+      "path": "select/18_Somebody_to_Thank_Logan_Mize.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Somebody To Love - Live",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/19_Somebody_To_Love_-_Live_Queen.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Somebody To Love",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/20_Somebody_To_Love_Queen.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Somebody To Love",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/21_Somebody_To_Love_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Somebody To Love - Live in Lisbon",
+      "artist": "Jacob Collier",
+      "has_synced": true,
+      "path": "select/22_Somebody_To_Love_-_Live_in_Lisbon_Jacob_Collier.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Medley: Turn It On Again, Pinball Wizard, Satisfaction, In The Midnight Hour, Somebody To Love, You've Lost That Loving Feeling, Reach Out I'll Be There",
+      "artist": "Genesis",
+      "has_synced": false,
+      "path": "select/23_Medley__Turn_It_On_Again,_Pinball_Wizard,_Satisfaction,_In_The_Midnight_Hour,_So_Genesis.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Somebody to Love",
+      "artist": "Jefferson Airplane",
+      "has_synced": true,
+      "path": "select/24_Somebody_to_Love_Jefferson_Airplane.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Somebody to Love",
+      "artist": "Great White",
+      "has_synced": true,
+      "path": "select/25_Somebody_to_Love_Great_White.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Somebody to Love",
+      "artist": "W.A.S.P.",
+      "has_synced": true,
+      "path": "select/26_Somebody_to_Love_W.A.S.P..lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Looking For Somebody (To Love)",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/27_Looking_For_Somebody_(To_Love)_The_1975.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Somebody To Love",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/28_Somebody_To_Love_Queen.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Somebody To Love",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/29_Somebody_To_Love_Queen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Somebody To You",
+      "artist": "The Vamps",
+      "has_synced": false,
+      "path": "select/pl_01_Somebody_To_You_The_Vamps.txt"
+    }
+  ]
+}
